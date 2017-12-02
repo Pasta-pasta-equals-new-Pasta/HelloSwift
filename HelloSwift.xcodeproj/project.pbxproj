@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AD8526351F92C17B00697295 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8526341F92C17B00697295 /* main.swift */; };
+		AD8A8DAF1FD3749D00CA126E /* School.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A8DAE1FD3749D00CA126E /* School.swift */; };
 		ADE551841FC1038F00D4A747 /* quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE551831FC1038F00D4A747 /* quiz.swift */; };
 		ADE551861FC103A400D4A747 /* practice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE551851FC103A400D4A747 /* practice.swift */; };
 /* End PBXBuildFile section */
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		AD8526311F92C17B00697295 /* HelloSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HelloSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD8526341F92C17B00697295 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AD8A8DAE1FD3749D00CA126E /* School.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = School.swift; sourceTree = "<group>"; };
 		ADE551831FC1038F00D4A747 /* quiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = quiz.swift; sourceTree = "<group>"; };
 		ADE551851FC103A400D4A747 /* practice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = practice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +63,7 @@
 		AD8526331F92C17B00697295 /* HelloSwift */ = {
 			isa = PBXGroup;
 			children = (
+				AD8A8DAE1FD3749D00CA126E /* School.swift */,
 				AD8526341F92C17B00697295 /* main.swift */,
 				ADE551831FC1038F00D4A747 /* quiz.swift */,
 				ADE551851FC103A400D4A747 /* practice.swift */,
@@ -129,6 +132,7 @@
 				ADE551841FC1038F00D4A747 /* quiz.swift in Sources */,
 				AD8526351F92C17B00697295 /* main.swift in Sources */,
 				ADE551861FC103A400D4A747 /* practice.swift in Sources */,
+				AD8A8DAF1FD3749D00CA126E /* School.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
